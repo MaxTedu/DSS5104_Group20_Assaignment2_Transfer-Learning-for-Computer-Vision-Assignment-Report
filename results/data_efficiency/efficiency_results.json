@@ -1,0 +1,54 @@
+{
+    "pretrained": [
+        {
+            "fraction": 1.0,
+            "mean_acc": 93.16,
+            "std_acc": 0.0,
+            "all_accs": [
+                93.16
+            ]
+        },
+        {
+            "fraction": 0.1,
+            "mean_acc": 92.06,
+            "std_acc": 0.0,
+            "all_accs": [
+                92.06
+            ]
+        },
+        {
+            "fraction": 0.05,
+            "mean_acc": 91.87,
+            "std_acc": 0.0,
+            "all_accs": [
+                91.87
+            ]
+        }
+    ],
+    "scratch": [
+        {
+            "fraction": 1.0,
+            "mean_acc": 75.67,
+            "std_acc": 0.0,
+            "all_accs": [
+                75.67
+            ]
+        },
+        {
+            "fraction": 0.1,
+            "mean_acc": 58.69,
+            "std_acc": 0.0,
+            "all_accs": [
+                58.69
+            ]
+        },
+        {
+            "fraction": 0.05,
+            "mean_acc": 49.48,
+            "std_acc": 0.0,
+            "all_accs": [
+                49.48
+            ]
+        }
+    ]
+}

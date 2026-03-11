@@ -1,0 +1,23 @@
+[
+    {
+        "model_name": "resnet50",
+        "parameters_m": 23.53,
+        "test_acc": 87.51,
+        "latency_ms": 3.47,
+        "model_size_mb": 90.05
+    },
+    {
+        "model_name": "efficientnet_b0",
+        "parameters_m": 4.02,
+        "test_acc": 90.71,
+        "latency_ms": 5.03,
+        "model_size_mb": 15.62
+    },
+    {
+        "model_name": "vit_b_16",
+        "parameters_m": 85.81,
+        "test_acc": 92.83,
+        "latency_ms": 8.31,
+        "model_size_mb": 327.38
+    }
+]
